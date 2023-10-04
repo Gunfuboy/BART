@@ -5,7 +5,7 @@ Overview of the deployable AI assisted Bionic Advisor project done over the RBC 
     <img src="Photos\BART_Logo.jpg" width = "50%" height = "50%">
 </p>
 
-*NOTE: The intent of this repo is to keep an archive of the BART project for public references, as the program itself has been developed internally and is property of Royal Bank of Canada (RBC). To that end, NO ACTUAL CODE is shown in this repo, and this README will be the main article that describes the project and its current progress.
+*NOTE: The intent of this repo is to keep an archive of the BART project for public references, as the program itself has been developed internally and is now property of Royal Bank of Canada (RBC). To that end, NO ACTUAL CODE is shown in this repo, and this README will be the main article that describes the project and its current progress.
 
 # Description
 
@@ -22,7 +22,7 @@ Compared to other similar products from companies such as IBM or Google, BART ha
 ## Tech Stack
 Front-End:  HTML | React | Tailwind CSS 
 
-Back-End: TypeScript | Python
+Back-End: TypeScript | Python | OpenAI - Whisper
 
 Data: PostGre SQL | HayStack 
 
