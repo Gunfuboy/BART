@@ -17,7 +17,7 @@ BART (*Bionic Advisor using Real-time Transcription*) is a AI-assisted support s
 
 The application is fully functional and can be deployed on Mac and Windows. User feedbacks were taken after some testings, and more internal functionalities were implemented after review. According to internal data, BART could provide up to 30% of reduction in clients' average handling time (AHT) as it can minimize the time that the client are put on hold during a call. Put in numbers, this reduction in AHT would result in over CAD 30M$ saved across the entire Advice Centre.
 
-Compared to other similar products from companies such as IBM or Google, BART has the advantage of it being developed in-house by RBC, and it uses a wide range of open source softwares that allows the program to be not only insanely scalable and adaptive, but also secure and protected from data leaks and other cybersecurity risks.
+Compared to other similar products from companies such as IBM or Google, BART has the advantage of it being developed in-house by RBC, and it uses a wide range of open source softwares that allows the program to be not only be insanely scalable and adaptive, but also secure and protected from data leaks and other cybersecurity risks.
 
 ## Tech Stack
 Front-End:  HTML | React | Tailwind CSS 
@@ -33,7 +33,7 @@ Data: PostGre SQL | HayStack
 
 **Andrew Wei** - Developer
 
-**Neha Himane** = Data Sciencist
+**Neha Himane** - Data Sciencist
 
 
 <img src="Photos\AmpExpo_Pitch2.jpeg" width = "50%" height = "50%">
