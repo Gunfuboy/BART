@@ -35,10 +35,12 @@ Data: PostGre SQL | HayStack
 
 **Neha Himane** - Data Sciencist
 
+<p align="center">   
+    <img src="Photos\AmpExpo_Pitch2.jpeg" width = "50%" height = "50%">
+</p>
 
-<img src="Photos\AmpExpo_Pitch2.jpeg" width = "50%" height = "50%">
+  *The inventors are shown here in order, during their pitches at the AmpExpo to a panel of judges and executives.*  
 
-*The inventors are shown here in order, during their pitches at the AmpExpo to a panel of judges and executives.*
 
 
 # Result
@@ -48,8 +50,9 @@ AmpExpo is the final event of the Amplify program, where students will be able t
 
 
 
-
-<img src="Photos\AmpExpo_Prize_Group_Photo.jpeg" width = "50%" height = "50%">
+<p align ="center">
+    <img src="Photos\AmpExpo_Prize_Group_Photo.jpeg" width = "50%" height = "50%">
+</p>
 
 
 
